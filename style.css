@@ -1,3 +1,10 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow-x:hidden ;
+}
+
 body{
     background-color: pink;
 }
@@ -41,6 +48,14 @@ input{
 
 
 @media all and (max-width: 500px){
+
+    html, body{
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        overflow-x: hidden ;
+    }
+ 
     .block{
         display: block;
         align-content: center;
