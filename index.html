@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TASK PICKER</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        simple chore chooser
+    </header>
+
+    <h2 id="task"></h2>
+    <h2 id="message"></h2>
+ 
+    <button id="random" class="block" onclick="get_task()">Get Task</button>
+    <input type="text" id="add-task" placeholder="add a task"> <button class="block" id="submit-task" onclick="add_task()">+</button>
+    <!-- <button id="done-adding" onclick="done_adding()">Done Adding Tasks?</button> -->
+    <ol id="adding-list"></ol>
+    <ol id="task-list"></ol>
+    <script src="index.js"></script>
+</body>
+</html>
