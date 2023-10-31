@@ -7,7 +7,7 @@
     'make bed', 'dishwasher', 'clean kitchen sink', 'clean bathroom sink', 'clean fridge', 'laundry', 'sweep', 'empty roomba', 'empty dustbuster',
     'run roomba', 'litterbox', 'clean toilet', 'clean tub', 'dust for five minutes', 'read 7 minutes', 'meditate two minutes', 'nails', 'clean bathroom floor', 
     'books 3 minutes', 'yoga', 'clean kitchen counter', 'clean bathroom counter', 'clean mirror', 'take out compost', 'take out recycling', 'clean under kitchen sink', 
-    'take out litter bag and set up new one', 'gather mail',
+    'take out litter bag and set up new one', 'gather mail', 'drink water'
 ]
 
 let arr =[
